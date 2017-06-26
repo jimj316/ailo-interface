@@ -1,4 +1,4 @@
-# ailo-interface
+# Ailo Interface
 The gestural interface and touchscreen alternative used for Team KLM's project at MediaLAB Amsterdam, "Ailo"
 
 # Summary
